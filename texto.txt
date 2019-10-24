@@ -1,0 +1,22 @@
+Ayer, al final de la conferencia @HDHispanicas había 4 chocolates Lindt para probar, con diferentes porcentajes de cacao: 50, 78, 90 y 99%. El objetivo era saber a nivel personal y social qué porcentaje gusta más. Pregunta clave para las #DH. Tenemos resultados chocométricos.
+
+
+La metodología: cada persona podía probar los chocolates que quisiese, aunque se recomendaba empezar por el 50% e ir subiendo. Tras probar cada chocolate, podía anotar cuánto le había gustado: de 0 (no me ha gustado nada) a 5 (me encanta!).
+
+Preguntas: al margen del porcentaje de cacao, ¿nos gusta el chocolate? Si sí, la media de puntuación debería ser alta. Si no, debería ser baja. Resultados? La media es de 3.2, con una desviación estándar de 1.6. Es decir, en genral SÍ gustaron los chocolates. Fiu…
+
+De hecho el valor modal (el valor más frecuente) es de 5: los más frecuente es que hayan gustado MCUHO estos chocolates. Aquí el boxplot de todas las puntuaciones.
+
+Siguiente pregunta: cuánto nos gusta cada chocolate? Pues en general los chocolates de 50%, 78% y 90% tienen resultados muy similares, frente al de 99% donde baja notablemente. La media de valoración es ligeramente superior con 78% de cacao, aunque hay que matizarlo.
+
+De hecho los anteriores boxplots responden a unas expectativas que muchos probantes tenían: cuanto más cacao, más rico. La sorpresa al probarlo se ve en lo datos: el cacao puro es profundamente desagradable para muchas personas, como para servidor!
+
+Al ver los anteriores resultados cabe la pregunta si es justo lo contrario lo que ocurre, que cuanto menos cacao (con un mínimo de 50%), más rico. Una test de correlación Spearman señala que sí hay una correlación negativa débil (-0.19), aunque esta correlación no es estadística (valor p 0.08). 
+
+Es decir, es cierto que el 99% es problemático, pero no es cierto que subir el porcentaje de cacao a partir de 50% empeora el chocolate.
+
+Cuál es el efecto de cada porcentaje de cacao en general? Si se visualizan las distribuciones de cada porcentaje como violin-plots, se observa que tienden a ser bimodales: a un grupo de gente le gusta mucho ese tipo de chocolate, a otro grupo tiende a desagradarle.
+
+El caso es extremo con el chocolate del 99%, que tiene una variabilidad extrema: o te encanta o lo aborreces. Así cuidado con regalar este chocolate: ¡es un órdago!
+
+Conclusiones: 1) el chocolate nos gusta. 2) En general, gustan los chocolates entre 50% y 90%. 3) La gente 
